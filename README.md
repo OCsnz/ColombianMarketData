@@ -11,6 +11,7 @@
 
 * Precio spot Historial 2010- 2023
 * Precios contratos 2010-2023
+                                               
                                                i.     Mercado regulado precios y plazos y condiciones (Ejemplo: garantías)
 
                                               ii.     Mercado No regulado precios y plazos y condiciones (Ejemplo: garantías)
